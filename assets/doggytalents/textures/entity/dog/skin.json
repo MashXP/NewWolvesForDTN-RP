@@ -131,6 +131,7 @@
             "author" : "Mojang",
             "tags": "Snapshot 24w10a New Wolves"
         },
+
         {
             "skin_name" : "Striped Wolf",
             "skin_id" : "wolf_striped",
@@ -173,6 +174,187 @@
             "use_model" : "default",
             "author" : "Mojang",
             "tags": "Snapshot 24w10a New Wolves"
+        },
+
+
+
+        {
+            "skin_name" : "Cherry Wolf",
+            "skin_id" : "cherry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Cherry Wolf (Tame)",
+            "skin_id" : "cherry_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Cherry Wolf (Angry)",
+            "skin_id" : "cherry_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Himalayan Salt Wolf",
+            "skin_id" : "himalayan_salt",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Himalayan Salt Wolf (Tame)",
+            "skin_id" : "himalayan_salt_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Himalayan Salt Wolf (Angry)",
+            "skin_id" : "himalayan_salt_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Lemony Lime Wolf",
+            "skin_id" : "lemony_lime",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Lemony Lime Wolf (Tame)",
+            "skin_id" : "lemony_lime_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Lemony Lime Wolf (Angry)",
+            "skin_id" : "lemony_lime_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Bamboo Wolf",
+            "skin_id" : "bamboo",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Bamboo Wolf (Tame)",
+            "skin_id" : "bamboo_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Bamboo Wolf (Angry)",
+            "skin_id" : "bamboo_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Birch Wolf",
+            "skin_id" : "birch",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Birch Wolf (Tame)",
+            "skin_id" : "birch_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Birch Wolf (Angry)",
+            "skin_id" : "birch_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Crimson Wolf",
+            "skin_id" : "crimson",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Crimson Wolf (Tame)",
+            "skin_id" : "crimson_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Crimson Wolf (Angry)",
+            "skin_id" : "crimson_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Warped Wolf",
+            "skin_id" : "warped",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Warped Wolf (Tame)",
+            "skin_id" : "warped_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Warped Wolf (Angry)",
+            "skin_id" : "warped_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "VSC Wolf",
+            "skin_id" : "vscode",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "VSC Wolf (Tame)",
+            "skin_id" : "vscode_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "VSC Wolf (Angry)",
+            "skin_id" : "vscode_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
         }
     ]
 }
