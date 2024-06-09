@@ -289,6 +289,50 @@
         },
 
         {
+            "skin_name" : "Pistachio Wolf",
+            "skin_id" : "pistachio",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Pistachio Wolf (Tame)",
+            "skin_id" : "pistachio_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Pistachio Wolf (Angry)",
+            "skin_id" : "pistachio_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Guacamole Wolf",
+            "skin_id" : "guacamole",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Guacamole Wolf (Tame)",
+            "skin_id" : "guacamole_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Guacamole Wolf (Angry)",
+            "skin_id" : "guacamole_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
             "skin_name" : "Crimson Wolf",
             "skin_id" : "crimson",
             "use_model" : "default",
@@ -329,6 +373,29 @@
         {
             "skin_name" : "Warped Wolf (Angry)",
             "skin_id" : "warped_angry",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Molten Wolf",
+            "skin_id" : "molten",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+        {
+            "skin_name" : "Molten Wolf (Tame)",
+            "skin_id" : "molten_tame",
+            "use_model" : "default",
+            "author" : "Mojang",
+            "tags": "Complementary DTN Wolf Variants"
+        },
+
+        {
+            "skin_name" : "Molten Wolf (Angry)",
+            "skin_id" : "molten_angry",
             "use_model" : "default",
             "author" : "Mojang",
             "tags": "Complementary DTN Wolf Variants"
