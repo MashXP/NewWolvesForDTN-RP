@@ -1,6 +1,4 @@
 # New Wolves For Doggy Talents Next
-[![Curseforge](http://cf.way2muchnoise.eu/full_new-wolves-dtn-resource-pack_downloads.svg)](https://www.curseforge.com/minecraft/texture-packs/new-wolves-dtn-resource-pack) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_new-wolves-dtn-resource-pack.svg)](https://www.curseforge.com/minecraft/texture-packs/new-wolves-dtn-resource-pack)
-
 ![DT Logo](https://github.com/DashieDev/DoggyTalentsNext/assets/122363761/88cce0b3-0e57-4fa3-aa98-b125d98be858)
 
 A big thanks to **DashieDev** - ダシデーブ for providing Doggy Talents Next.
