@@ -176,252 +176,609 @@
             "tags": "Snapshot 24w10a New Wolves"
         },
 
-
-
         {
             "skin_name" : "Cherry Wolf",
-            "skin_id" : "cherry",
+            "skin_id" : "wolf_cherry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
-            "skin_name" : "Cherry Wolf (Tame)",
-            "skin_id" : "cherry_tame",
+            "skin_name" : "Cherry Wolf (Wild)",
+            "skin_id" : "wolf_cherry_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Cherry Wolf (Angry)",
-            "skin_id" : "cherry_angry",
+            "skin_id" : "wolf_cherry_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-
-        {
-            "skin_name" : "Himalayan Salt Wolf",
-            "skin_id" : "himalayan_salt",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-        {
-            "skin_name" : "Himalayan Salt Wolf (Tame)",
-            "skin_id" : "himalayan_salt_tame",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-        {
-            "skin_name" : "Himalayan Salt Wolf (Angry)",
-            "skin_id" : "himalayan_salt_angry",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-
-        {
-            "skin_name" : "Lemony Lime Wolf",
-            "skin_id" : "lemony_lime",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-        {
-            "skin_name" : "Lemony Lime Wolf (Tame)",
-            "skin_id" : "lemony_lime_tame",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
-        },
-        {
-            "skin_name" : "Lemony Lime Wolf (Angry)",
-            "skin_id" : "lemony_lime_angry",
-            "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
 
         {
             "skin_name" : "Bamboo Wolf",
-            "skin_id" : "bamboo",
+            "skin_id" : "wolf_bamboo",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
-            "skin_name" : "Bamboo Wolf (Tame)",
-            "skin_id" : "bamboo_tame",
+            "skin_name" : "Bamboo Wolf (Wild)",
+            "skin_id" : "wolf_bamboo_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Bamboo Wolf (Angry)",
-            "skin_id" : "bamboo_angry",
+            "skin_id" : "wolf_bamboo_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
 
         {
             "skin_name" : "Birch Wolf",
-            "skin_id" : "birch",
+            "skin_id" : "wolf_birch",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
-            "skin_name" : "Birch Wolf (Tame)",
-            "skin_id" : "birch_tame",
+            "skin_name" : "Birch Wolf (Wild)",
+            "skin_id" : "wolf_birch_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Birch Wolf (Angry)",
-            "skin_id" : "birch_angry",
+            "skin_id" : "wolf_birch_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Yuzu Wolf",
+            "skin_id" : "wolf_yuzu",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Yuzu Wolf (Wild)",
+            "skin_id" : "wolf_yuzu_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Yuzu Wolf (Angry)",
+            "skin_id" : "wolf_yuzu_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
 
         {
             "skin_name" : "Pistachio Wolf",
-            "skin_id" : "pistachio",
+            "skin_id" : "wolf_pistachio",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
-            "skin_name" : "Pistachio Wolf (Tame)",
-            "skin_id" : "pistachio_tame",
+            "skin_name" : "Pistachio Wolf (Wild)",
+            "skin_id" : "wolf_pistachio_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Pistachio Wolf (Angry)",
-            "skin_id" : "pistachio_angry",
+            "skin_id" : "wolf_pistachio_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
 
         {
             "skin_name" : "Guacamole Wolf",
-            "skin_id" : "guacamole",
+            "skin_id" : "wolf_guacamole",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
-            "skin_name" : "Guacamole Wolf (Tame)",
-            "skin_id" : "guacamole_tame",
+            "skin_name" : "Guacamole Wolf (Wild)",
+            "skin_id" : "wolf_guacamole_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Guacamole Wolf (Angry)",
-            "skin_id" : "guacamole_angry",
+            "skin_id" : "wolf_guacamole_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
+
+        {
+            "skin_name" : "Himalayan Salt Wolf",
+            "skin_id" : "wolf_himalayan_salt",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Himalayan Salt Wolf (Wild)",
+            "skin_id" : "wolf_himalayan_salt_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Himalayan Salt Wolf (Angry)",
+            "skin_id" : "wolf_himalayan_salt_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Lemony Lime Wolf",
+            "skin_id" : "wolf_lemony_lime",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Lemony Lime Wolf (Wild)",
+            "skin_id" : "wolf_lemony_lime_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Lemony Lime Wolf (Angry)",
+            "skin_id" : "wolf_lemony_lime_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Charcoal Wolf",
+            "skin_id" : "wolf_charcoal",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Underground"
+        },
+        {
+            "skin_name" : "Charcoal Wolf (Wild)",
+            "skin_id" : "wolf_charcoal_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Underground"
+        },
+        {
+            "skin_name" : "Charcoal Wolf (Angry)",
+            "skin_id" : "wolf_charcoal_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Underground"
+        },
+
+        {
+            "skin_name" : "Cappuccino Wolf",
+            "skin_id" : "wolf_cappuccino",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Cappuccino Wolf (Wild)",
+            "skin_id" : "wolf_cappuccino_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        
+        {
+            "skin_name" : "Cappuccino Wolf (Angry)",
+            "skin_id" : "wolf_cappuccino_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Latte Wolf",
+            "skin_id" : "wolf_latte",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Latte Wolf (Wild)",
+            "skin_id" : "wolf_latte_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Latte Wolf (Angry)",
+            "skin_id" : "wolf_latte_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+
+        {
+            "skin_name" : "Mocha Wolf",
+            "skin_id" : "wolf_mocha",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Mocha Wolf (Wild)",
+            "skin_id" : "wolf_mocha_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Mocha Wolf (Angry)",
+            "skin_id" : "wolf_mocha_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+
+        {
+            "skin_name" : "Espresso Wolf",
+            "skin_id" : "wolf_espresso",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Espresso Wolf (Wild)",
+            "skin_id" : "wolf_espresso_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+        {
+            "skin_name" : "Espresso Wolf (Angry)",
+            "skin_id" : "wolf_espresso_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Caffeine"
+        },
+
+
+
+
+        {
+            "skin_name" : "Prismarine Wolf",
+            "skin_id" : "wolf_prismarine",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Prismarine Wolf (Wild)",
+            "skin_id" : "wolf_prismarine_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Prismarine Wolf (Angry)",
+            "skin_id" : "wolf_prismarine_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Kombu Wolf",
+            "skin_id" : "wolf_kombu",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Kombu Wolf (Wild)",
+            "skin_id" : "wolf_kombu_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Kombu Wolf (Angry)",
+            "skin_id" : "wolf_kombu_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Brain Coral Wolf",
+            "skin_id" : "wolf_coral_brain",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Brain Coral Wolf (Wild)",
+            "skin_id" : "wolf_coral_brain_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Brain Coral Wolf (Angry)",
+            "skin_id" : "wolf_coral_brain_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Horn Coral Wolf",
+            "skin_id" : "wolf_coral_horn",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Horn Coral Wolf (Wild)",
+            "skin_id" : "wolf_coral_horn_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Horn Coral Wolf (Angry)",
+            "skin_id" : "wolf_coral_horn_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Fire Coral Wolf",
+            "skin_id" : "wolf_coral_fire",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Fire Coral Wolf (Wild)",
+            "skin_id" : "wolf_coral_fire_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Fire Coral Wolf (Angry)",
+            "skin_id" : "wolf_coral_fire_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Tube Coral Wolf",
+            "skin_id" : "wolf_coral_tube",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Tube Coral Wolf (Wild)",
+            "skin_id" : "wolf_coral_tube_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Tube Coral Wolf (Angry)",
+            "skin_id" : "wolf_coral_tube_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+
+        {
+            "skin_name" : "Bubble Coral Wolf",
+            "skin_id" : "wolf_coral_bubble",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Bubble Coral Wolf (Wild)",
+            "skin_id" : "wolf_coral_bubble_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+        {
+            "skin_name" : "Bubble Coral Wolf (Angry)",
+            "skin_id" : "wolf_coral_bubble_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Ocean"
+        },
+    
 
         {
             "skin_name" : "Crimson Wolf",
-            "skin_id" : "crimson",
+            "skin_id" : "wolf_crimson",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
         {
-            "skin_name" : "Crimson Wolf (Tame)",
-            "skin_id" : "crimson_tame",
+            "skin_name" : "Crimson Wolf (Wild)",
+            "skin_id" : "wolf_crimson_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
-
         {
             "skin_name" : "Crimson Wolf (Angry)",
-            "skin_id" : "crimson_angry",
+            "skin_id" : "wolf_crimson_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
 
         {
             "skin_name" : "Warped Wolf",
-            "skin_id" : "warped",
+            "skin_id" : "wolf_warped",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
         {
-            "skin_name" : "Warped Wolf (Tame)",
-            "skin_id" : "warped_tame",
+            "skin_name" : "Warped Wolf (Wild)",
+            "skin_id" : "wolf_warped_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
-
+        
         {
             "skin_name" : "Warped Wolf (Angry)",
-            "skin_id" : "warped_angry",
+            "skin_id" : "wolf_warped_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
 
         {
             "skin_name" : "Molten Wolf",
-            "skin_id" : "molten",
+            "skin_id" : "wolf_molten",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
         {
-            "skin_name" : "Molten Wolf (Tame)",
-            "skin_id" : "molten_tame",
+            "skin_name" : "Molten Wolf (Wild)",
+            "skin_id" : "wolf_molten_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
         },
-
         {
             "skin_name" : "Molten Wolf (Angry)",
-            "skin_id" : "molten_angry",
+            "skin_id" : "wolf_molten_angry",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+
+
+
+
+        {
+            "skin_name" : "Ender Wolf",
+            "skin_id" : "wolf_ender",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+        {
+            "skin_name" : "Ender Wolf (Wild)",
+            "skin_id" : "wolf_ender_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+        {
+            "skin_name" : "Ender Wolf (Angry)",
+            "skin_id" : "wolf_ender_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
         },
 
         {
-            "skin_name" : "VSC Wolf",
-            "skin_id" : "vscode",
+            "skin_name" : "Chorus Wolf",
+            "skin_id" : "wolf_chorus",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
         },
         {
-            "skin_name" : "VSC Wolf (Tame)",
-            "skin_id" : "vscode_tame",
+            "skin_name" : "Chorus Wolf (Wild)",
+            "skin_id" : "wolf_chorus_wild",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+        {
+            "skin_name" : "Chorus Wolf (Angry)",
+            "skin_id" : "wolf_chorus_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
         },
 
         {
-            "skin_name" : "VSC Wolf (Angry)",
-            "skin_id" : "vscode_angry",
+            "skin_name" : "Shulker Wolf",
+            "skin_id" : "wolf_shulker",
             "use_model" : "default",
-            "author" : "Mojang",
-            "tags": "Complementary DTN Wolf Variants"
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+        {
+            "skin_name" : "Shulker Wolf (Wild)",
+            "skin_id" : "wolf_shulker_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+        {
+            "skin_name" : "Shulker Wolf (Angry)",
+            "skin_id" : "wolf_shulker_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, End"
+        },
+
+
+
+
+        {
+            "skin_name" : "VSCode Wolf",
+            "skin_id" : "wolf_vscode",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "VSCode Wolf (Wild)",
+            "skin_id" : "wolf_vscode_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "VSCode Wolf (Angry)",
+            "skin_id" : "wolf_vscode_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
         }
     ]
 }

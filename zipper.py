@@ -5,7 +5,7 @@ import zipfile
 files_to_zip = ['pack.mcmeta', 'pack.png']
 folder_to_zip = 'assets'
 output_folder = 'zip-output'
-output_zip_file = os.path.join(output_folder, 'NewWolvesForDTN-1.2.zip')
+output_zip_file = os.path.join(output_folder, 'NewWolvesForDTN-1.3.zip')
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder):
