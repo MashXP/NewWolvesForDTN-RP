@@ -353,6 +353,116 @@
         },
 
         {
+            "skin_name" : "Brown Mushroom Wolf",
+            "skin_id" : "wolf_brown_mushroom",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Brown Mushroom Wolf (Wild)",
+            "skin_id" : "wolf_brown_mushroom_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Brown Mushroom Wolf (Angry)",
+            "skin_id" : "wolf_brown_mushroom_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Red Mushroom Wolf",
+            "skin_id" : "wolf_red_mushroom",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Red Mushroom Wolf (Wild)",
+            "skin_id" : "wolf_red_mushroom_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Red Mushroom Wolf (Angry)",
+            "skin_id" : "wolf_red_mushroom_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Glowing Mushroom Wolf",
+            "skin_id" : "wolf_glowing_mushroom",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Glowing Mushroom Wolf (Wild)",
+            "skin_id" : "wolf_glowing_mushroom_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Glowing Mushroom Wolf (Angry)",
+            "skin_id" : "wolf_glowing_mushroom_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld, Underground"
+        },
+
+        {
+            "skin_name" : "Shitake Wolf",
+            "skin_id" : "wolf_shitake",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Shitake Wolf (Wild)",
+            "skin_id" : "wolf_shitake_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Shitake Wolf (Angry)",
+            "skin_id" : "wolf_shitake_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        
+        {
+            "skin_name" : "Enoki Wolf",
+            "skin_id" : "wolf_enoki",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Enoki Wolf (Wild)",
+            "skin_id" : "wolf_enoki_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Enoki Wolf (Angry)",
+            "skin_id" : "wolf_enoki_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
             "skin_name" : "Charcoal Wolf",
             "skin_id" : "wolf_charcoal",
             "use_model" : "default",
