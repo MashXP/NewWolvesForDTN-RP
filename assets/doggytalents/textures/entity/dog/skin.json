@@ -910,6 +910,50 @@
             "use_model" : "default",
             "author" : "MashXP",
             "tags": "Palette of Paws, Special"
+        },
+
+        {
+            "skin_name" : "Light Mode VSCode Wolf",
+            "skin_id" : "wolf_vscode",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "Light Mode VSCode Wolf (Wild)",
+            "skin_id" : "wolf_vscode_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "Light Mode VSCode Wolf (Angry)",
+            "skin_id" : "wolf_vscode_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+
+        {
+            "skin_name" : "Smooth Guacamole Wolf",
+            "skin_id" : "wolf_guacamole_smooth",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "Smooth Guacamole Wolf (Wild)",
+            "skin_id" : "wolf_guacamole_smooth_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
+        },
+        {
+            "skin_name" : "Smooth Guacamole Wolf (Angry)",
+            "skin_id" : "wolf_guacamole_smooth_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Special"
         }
     ]
 }
