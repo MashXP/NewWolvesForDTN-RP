@@ -980,21 +980,21 @@
 
         {
             "skin_name" : "Light Mode VSCode Wolf",
-            "skin_id" : "wolf_vscode",
+            "skin_id" : "wolf_vscode_light",
             "use_model" : "default",
             "author" : "MashXP",
             "tags": "Palette of Paws, Special"
         },
         {
             "skin_name" : "Light Mode VSCode Wolf (Wild)",
-            "skin_id" : "wolf_vscode_wild",
+            "skin_id" : "wolf_vscode_light_wild",
             "use_model" : "default",
             "author" : "MashXP",
             "tags": "Palette of Paws, Special"
         },
         {
             "skin_name" : "Light Mode VSCode Wolf (Angry)",
-            "skin_id" : "wolf_vscode_angry",
+            "skin_id" : "wolf_vscode_light_angry",
             "use_model" : "default",
             "author" : "MashXP",
             "tags": "Palette of Paws, Special"
