@@ -463,6 +463,72 @@
         },
 
         {
+            "skin_name" : "Vanilla Wolf",
+            "skin_id" : "wolf_vanilla",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Vanilla Wolf (Wild)",
+            "skin_id" : "wolf_vanilla_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Vanilla Wolf (Angry)",
+            "skin_id" : "wolf_vanilla_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Strawberry Wolf",
+            "skin_id" : "wolf_strawberry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Strawberry Wolf (Wild)",
+            "skin_id" : "wolf_strawberry_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Strawberry Wolf (Angry)",
+            "skin_id" : "wolf_strawberry_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Chocolate Wolf",
+            "skin_id" : "wolf_chocolate",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Chocolate Wolf (Wild)",
+            "skin_id" : "wolf_chocolate_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Chocolate Wolf (Angry)",
+            "skin_id" : "wolf_chocolate_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
             "skin_name" : "Charcoal Wolf",
             "skin_id" : "wolf_charcoal",
             "use_model" : "default",
