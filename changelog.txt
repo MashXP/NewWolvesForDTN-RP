@@ -1,0 +1,32 @@
+Release 1.0:
++ Added 8 new Minecraft Wolf Variants!
+
+Update 1.1:
++ Added 8 DTN Complementary Variants!
+
+Update 1.2:
+
++ Added: Molten (oopse).
++ Added: Guacamole.
++ Added: Pistachio.
+====
+
+Fix the snout texture of several skins.
+
+Update 1.3:
++ Added: the unreleased and unused skins for DTNP (too lazy to list)
++ Added: Withered Soul
+
+# Mushroom Suite!
++ Added: Red Mushroom, Brown Mushroom
++ Added: Shitake
++ Added: Enoki
+
+# Ice Cream Suite!
++ Added: Vanilla (the real vanilla)
++ Added: Strawberry 
++ Added: Chocolate
+
+*Fixed a few texture: Birch, VSCode
+*Kombu Texture mismatch
+
