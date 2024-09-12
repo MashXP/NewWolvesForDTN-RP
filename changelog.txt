@@ -30,3 +30,6 @@ Update 1.3:
 *Fixed a few texture: Birch, VSCode
 *Kombu Texture mismatch
 
+Update 1.4:
++ Added: Walnut
+
