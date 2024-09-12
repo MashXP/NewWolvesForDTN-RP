@@ -643,21 +643,43 @@
             "skin_id" : "wolf_bonito_flakes",
             "use_model" : "default",
             "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Caffeine"
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Bonito Flakes Wolf (Wild)",
             "skin_id" : "wolf_bonito_flakes_wild",
             "use_model" : "default",
             "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Caffeine"
+            "tags": "Palette of Paws, Overworld"
         },
         {
             "skin_name" : "Bonito Flakes Wolf (Angry)",
             "skin_id" : "wolf_bonito_flakes_angry",
             "use_model" : "default",
             "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Caffeine"
+            "tags": "Palette of Paws, Overworld"
+        },
+        
+        {
+            "skin_name" : "Walnut Wolf",
+            "skin_id" : "wolf_walnut",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Walnut Wolf (Wild)",
+            "skin_id" : "wolf_walnut_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Walnut Wolf (Angry)",
+            "skin_id" : "wolf_walnut_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
         },
 
 
