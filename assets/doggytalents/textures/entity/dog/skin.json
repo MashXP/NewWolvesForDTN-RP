@@ -758,6 +758,50 @@
             "tags": "Palette of Paws, Overworld"
         },
 
+        {
+            "skin_name" : "Platinum Wolf",
+            "skin_id" : "wolf_platinum",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Platinum Wolf (Wild)",
+            "skin_id" : "wolf_platinum_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Platinum Wolf (Angry)",
+            "skin_id" : "wolf_platinum_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Silver Wolf",
+            "skin_id" : "wolf_silver",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Silver Wolf (Wild)",
+            "skin_id" : "wolf_silver_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Silver Wolf (Angry)",
+            "skin_id" : "wolf_silver_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
 
 
 
