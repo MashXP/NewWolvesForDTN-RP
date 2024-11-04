@@ -802,7 +802,27 @@
             "tags": "Palette of Paws, Overworld"
         },
 
-
+        {
+            "skin_name" : "Sculk Wolf",
+            "skin_id" : "wolf_sculk",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Sculk Wolf (Wild)",
+            "skin_id" : "wolf_sculk_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Sculk Wolf (Angry)",
+            "skin_id" : "wolf_sculk_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
 
 
 
