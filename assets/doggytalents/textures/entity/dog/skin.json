@@ -176,6 +176,16 @@
             "tags": "Snapshot 24w10a New Wolves"
         },
 
+
+
+
+
+
+
+
+
+
+
         {
             "skin_name" : "Cherry Wolf",
             "skin_id" : "wolf_cherry",
@@ -685,6 +695,12 @@
 
 
 
+
+
+
+
+
+
         {
             "skin_name" : "Prismarine Wolf",
             "skin_id" : "wolf_prismarine",
@@ -838,7 +854,16 @@
             "author" : "MashXP",
             "tags": "Palette of Paws, Overworld, Ocean"
         },
-    
+
+
+
+
+
+
+
+
+
+
 
         {
             "skin_name" : "Crimson Wolf",
@@ -973,6 +998,12 @@
             "tags": "Palette of Paws, Nether"
         },
 
+        
+
+
+
+
+
 
 
 
@@ -1043,9 +1074,16 @@
             "tags": "Palette of Paws, End"
         },
 
+        
 
 
 
+
+
+
+
+
+        
         {
             "skin_name" : "VSCode Wolf",
             "skin_id" : "wolf_vscode",
