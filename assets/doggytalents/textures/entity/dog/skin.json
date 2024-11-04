@@ -1127,6 +1127,28 @@
             "tags": "Palette of Paws, Nether"
         },
 
+        {
+            "skin_name" : "Wandering Soul Wolf",
+            "skin_id" : "wolf_wandering_soul",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+        {
+            "skin_name" : "Wandering Soul Wolf (Wild)",
+            "skin_id" : "wolf_wandering_soul_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+        {
+            "skin_name" : "Wandering Soul Wolf (Angry)",
+            "skin_id" : "wolf_wandering_soul_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+
         
 
 
