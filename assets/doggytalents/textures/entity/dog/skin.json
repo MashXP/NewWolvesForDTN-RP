@@ -906,6 +906,7 @@
             "author" : "MashXP",
             "tags": "Palette of Paws, Nether"
         },
+        
         {
             "skin_name" : "Withered Soul Wolf",
             "skin_id" : "wolf_withered_soul",
@@ -927,6 +928,29 @@
             "author" : "MashXP",
             "tags": "Palette of Paws, Nether"
         },
+
+        {
+            "skin_name" : "Desiccated Wolf",
+            "skin_id" : "wolf_desiccated",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+        {
+            "skin_name" : "Desiccated Wolf (Wild)",
+            "skin_id" : "wolf_desiccated_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+        {
+            "skin_name" : "Desiccated Wolf (Angry)",
+            "skin_id" : "wolf_desiccated_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Nether"
+        },
+
 
 
 
