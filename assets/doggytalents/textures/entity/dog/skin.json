@@ -692,6 +692,27 @@
             "tags": "Palette of Paws, Overworld"
         },
 
+        {
+            "skin_name" : "Kombu Wolf",
+            "skin_id" : "wolf_kombu",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Kombu Wolf (Wild)",
+            "skin_id" : "wolf_kombu_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Kombu Wolf (Angry)",
+            "skin_id" : "wolf_kombu_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
 
 
 
@@ -718,28 +739,6 @@
         {
             "skin_name" : "Prismarine Wolf (Angry)",
             "skin_id" : "wolf_prismarine_angry",
-            "use_model" : "default",
-            "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Ocean"
-        },
-
-        {
-            "skin_name" : "Kombu Wolf",
-            "skin_id" : "wolf_kombu",
-            "use_model" : "default",
-            "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Ocean"
-        },
-        {
-            "skin_name" : "Kombu Wolf (Wild)",
-            "skin_id" : "wolf_kombu_wild",
-            "use_model" : "default",
-            "author" : "MashXP",
-            "tags": "Palette of Paws, Overworld, Ocean"
-        },
-        {
-            "skin_name" : "Kombu Wolf (Angry)",
-            "skin_id" : "wolf_kombu_angry",
             "use_model" : "default",
             "author" : "MashXP",
             "tags": "Palette of Paws, Overworld, Ocean"
