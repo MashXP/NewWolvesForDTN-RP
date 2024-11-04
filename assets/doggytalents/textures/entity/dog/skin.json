@@ -714,6 +714,28 @@
             "tags": "Palette of Paws, Overworld"
         },
 
+        {
+            "skin_name" : "Icy Wolf",
+            "skin_id" : "wolf_icy",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Icy Wolf (Wild)",
+            "skin_id" : "wolf_icy_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Icy Wolf (Angry)",
+            "skin_id" : "wolf_icy_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
 
 
 
@@ -875,6 +897,8 @@
             "author" : "MashXP",
             "tags": "Palette of Paws, Overworld"
         },
+
+        
 
 
 
