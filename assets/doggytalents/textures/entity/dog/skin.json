@@ -736,6 +736,27 @@
             "tags": "Palette of Paws, Overworld"
         },
 
+        {
+            "skin_name" : "Frosty Wolf",
+            "skin_id" : "wolf_frosty",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Frosty Wolf (Wild)",
+            "skin_id" : "wolf_frosty_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Frosty Wolf (Angry)",
+            "skin_id" : "wolf_frosty_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
 
 
 
