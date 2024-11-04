@@ -854,6 +854,27 @@
             "tags": "Palette of Paws, Overworld, Ocean"
         },
 
+        {
+            "skin_name" : "Hadal Wolf",
+            "skin_id" : "wolf_hadal",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Hadal Wolf (Wild)",
+            "skin_id" : "wolf_hadal_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Hadal Wolf (Angry)",
+            "skin_id" : "wolf_hadal_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
 
 
 
