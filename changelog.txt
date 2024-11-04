@@ -33,3 +33,11 @@ Update 1.3:
 Update 1.4:
 + Added: Walnut
 
+Update 1.5:
++ Added: Sanguine
++ Added: Desiccated
++ Added: Wandering Soul
+
+*Hide the unreleased ones.
+*Fix some tags
+*For now,  when you import this RP, MC will tell you this RP is "incompatible". However, it will be compatible with ALL versions of DTN. 
