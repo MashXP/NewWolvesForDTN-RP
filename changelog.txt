@@ -41,3 +41,11 @@ Update 1.5:
 *Hide the unreleased ones.
 *Fix some tags
 *For now,  when you import this RP, MC will tell you this RP is "incompatible". However, it will be compatible with ALL versions of DTN. 
+
+Update 1.6:
+*Revert the hide... What was I thinking? 
+# Savanna Suite!
++ Added: Muddy
++ Added: Sooty
++ Added: Root Beer
++ Added: Brindle
