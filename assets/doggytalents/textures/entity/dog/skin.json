@@ -824,6 +824,94 @@
             "tags": "Palette of Paws, Overworld"
         },
 
+        {
+            "skin_name" : "Brindle Wolf",
+            "skin_id" : "wolf_brindle",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Brindle Wolf (Wild)",
+            "skin_id" : "wolf_brindle_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Brindle Wolf (Angry)",
+            "skin_id" : "wolf_brindle_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Muddy Wolf",
+            "skin_id" : "wolf_muddy",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Muddy Wolf (Wild)",
+            "skin_id" : "wolf_muddy_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Muddy Wolf (Angry)",
+            "skin_id" : "wolf_muddy_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Root Beer Wolf",
+            "skin_id" : "wolf_root_beer",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Root Beer Wolf (Wild)",
+            "skin_id" : "wolf_root_beer_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Root Beer Wolf (Angry)",
+            "skin_id" : "wolf_root_beer_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
+        {
+            "skin_name" : "Sooty Wolf",
+            "skin_id" : "wolf_sooty",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Sooty Wolf (Wild)",
+            "skin_id" : "wolf_sooty_wild",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+        {
+            "skin_name" : "Sooty Wolf (Angry)",
+            "skin_id" : "wolf_sooty_angry",
+            "use_model" : "default",
+            "author" : "MashXP",
+            "tags": "Palette of Paws, Overworld"
+        },
+
 
 
 
